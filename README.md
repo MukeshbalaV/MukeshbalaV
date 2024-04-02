@@ -24,8 +24,7 @@ Student @ Sri Sairam Engineering College
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Untitledrtx4070edit.jpg"/>  <img height="30" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/intel-core-i9-14900ks-leak-1.jpg"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
-
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">
+<a href="https://www.leetcode.com/mukeshbala24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukeshbala24" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mukeshbala24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mukeshbala24" height="30" width="40" /></a>
+</p>
