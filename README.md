@@ -22,7 +22,7 @@ Student @ Sri Sairam Engineering College
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Untitledrtx4070edit.jpg"/>  <img height="30" src="https://logowik.com/content/uploads/images/intel-core-i73265.logowik.com.webp"/> 
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Untitledrtx4070edit.jpg"/>  <img height="30" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/intel-core-i9-14900ks-leak-1.jpg"/> 
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
