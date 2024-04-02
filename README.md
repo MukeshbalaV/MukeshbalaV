@@ -22,7 +22,7 @@ Student @ Sri Sairam Engineering College
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.notebookcheck.net%2FNVIDIA-GeForce-RTX-4070-specifications-leak-online.674557.0.html&psig=AOvVaw3CrA77blhVB6QozdCZR9F3&ust=1712127728226000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND7xvv6ooUDFQAAAAAdAAAAABAE"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Untitledrtx4070edit.jpg"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
