@@ -28,3 +28,10 @@ Student @ Sri Sairam Engineering College
 <a href="https://www.leetcode.com/mukeshbala24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukeshbala24" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mukeshbala24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mukeshbala24" height="30" width="40" /></a>
 </p>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
