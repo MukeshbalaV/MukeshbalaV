@@ -8,7 +8,8 @@ Student @ Sri Sairam Engineering College
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mukeshbala24/)
+<br /> [<img src="![image](https://github.com/MukeshbalaV/MukeshbalaV/assets/132079413/d376ab2e-6847-4b99-bb62-67bff98aae8e)
+" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mukeshbala24/)
 - 😄 Pronouns: Hacker
 - ⚡ Fun fact: I know Japanese.
 
