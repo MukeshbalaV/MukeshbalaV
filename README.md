@@ -2,7 +2,7 @@
 
 Student @ Sri Sairam Engineering College
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](weblink)                                                 
+- 🔭 Here's my [portfolio](https://660eb8a198714103281dbc98--stellar-crisp-01dc85.netlify.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on MERN STACK
 - 🤔 I’m looking for help with Placements in FAANG
