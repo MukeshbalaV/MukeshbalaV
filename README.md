@@ -1,10 +1,6 @@
 ## Hi there 👋 It's me Mukesh Bala !
 
 Student @ Sri Sairam Engineering College
-<center>
-  <table>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basnijholt&hide=TeX,Jupyter%20Notebook&layout=compact&theme=radical" /></td>
-  </table>
 </center>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://660eb8a198714103281dbc98--stellar-crisp-01dc85.netlify.app/)                                                 
